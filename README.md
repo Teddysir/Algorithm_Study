@@ -50,13 +50,13 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
-| 1 | [1976. 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+| 1 | [1937. 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
 
 ### DAY 5
 
 | # | Title | Difficulty |
 | :---: | :---: | :---: |
-| 1 | [4179. 강의실 배정](https://www.acmicpc.net/problem/11000) | ![GOLD%20IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+| 1 | [11000. 강의실 배정](https://www.acmicpc.net/problem/11000) | ![GOLD%20IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
 
 ### DAY 6
 
