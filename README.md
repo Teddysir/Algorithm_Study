@@ -43,6 +43,35 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
+## WEEK 3 (0929 ~ 1002)
+
+
+### DAY 7
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [8980. 택배](https://www.acmicpc.net/problem/8980) | ![GOLD%20I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 8
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1516. 게임 개발](https://www.acmicpc.net/problem/1516) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 9
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [4386. 별자리 만들기](https://www.acmicpc.net/problem/4386) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 10
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1214. 쿨한 물건 구매](https://www.acmicpc.net/problem/1214) | ![Platinum V](https://img.shields.io/badge/Platinum%20V-27E2A4?style=flat) |
+
+
+
 ## WEEK 2 (0924 ~ 0926)
 
 
