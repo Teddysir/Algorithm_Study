@@ -74,6 +74,10 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 
 ## WEEK 2 (0924 ~ 0926)
 
+<details>
+<summary>WEEK 4 (0811 ~ 0817)</summary>
+<div markdown="1">
+
 
 ### DAY 4
 
@@ -93,6 +97,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | :---: | :---: | :---: |
 | 1 | [1068. 트리](https://www.acmicpc.net/problem/1068) | ![GOLD%20V](https://img.shields.io/badge/GOLD%20V-D5A11E?style=flat) |
 
+</div>
+</details>
 
 
 ## WEEK 1 (0917 ~ 0919)
