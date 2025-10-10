@@ -43,7 +43,45 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
-## WEEK 3 (0929 ~ 1002)
+## WEEK 4 (1013 ~ 1017)
+
+### DAY 11
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1238. 파티](https://www.acmicpc.net/problem/1238) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 12
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [15683. 감시](https://www.acmicpc.net/problem/15683) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 13
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [6087. 레이저통신](https://www.acmicpc.net/problem/6087) | ![GOLD%20III](https://img.shields.io/badge/GOLD%20III-D5A11E?style=flat) |
+
+### DAY 14
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [10800. 컬러볼](https://www.acmicpc.net/problem/10800) | ![GOLD%20II](https://img.shields.io/badge/GOLD%20II-D5A11E?style=flat) |
+
+
+### DAY 15
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2110. 공유기설치](https://www.acmicpc.net/problem/2110) | ![GOLD%20IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+
+
+
+
+<details>
+<summary>WEEK 3 (0929 ~ 1002)</summary>
+<div markdown="1">
 
 
 ### DAY 7
@@ -70,12 +108,13 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | :---: | :---: | :---: |
 | 1 | [1214. 쿨한 물건 구매](https://www.acmicpc.net/problem/1214) | ![Platinum V](https://img.shields.io/badge/Platinum%20V-27E2A4?style=flat) |
 
+</div>
+</details>
 
 
-## WEEK 2 (0924 ~ 0926)
 
 <details>
-<summary>WEEK 4 (0811 ~ 0817)</summary>
+<summary>WEEK 2 (0924 ~ 0926)</summary>
 <div markdown="1">
 
 
@@ -100,12 +139,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 </div>
 </details>
 
-
-## WEEK 1 (0917 ~ 0919)
-
-
 <details>
-<summary>WEEK 4 (0811 ~ 0817)</summary>
+<summary>WEEK 1 (0917 ~ 0919)</summary>
 <div markdown="1">
   
 ### DAY 1
