@@ -1,7 +1,7 @@
 /**
  * @Link https://www.acmicpc.net/problem/6087
- * @RunningTime 100ms
- * @Memory 13904kb
+ * @RunningTime 96ms
+ * @Memory 13984kb
  * @Strategy 다익스트라 (Dijkstra)
  * * 레이저를 연결하는데 필요한 거울의 최소 개수를 구하는 문제로, 최단 경로 알고리즘으로 접근.
  * * 경로의 비용(가중치)은 '거리'가 아닌 '설치된 거울의 개수'.
@@ -130,11 +130,6 @@ public class Main {
 					pq.offer(new Laser(nr, nc, i, nextCount));
 				}
 			}
-		}
-		
-		// 도착점 'C'에 4가지 방향으로 도착한 경우 중 최소 거울 개수를 찾음
-		for (int i = 0; i < 4; i++) {
-			answer = Math.min(answer, mirrorCount[C[1][0]][C[1][1]][i]);
 		}
 		System.out.println(answer);
 	}
