@@ -45,7 +45,44 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
-## WEEK 4 (1013 ~ 1017)
+## WEEK 5 (1020 ~ 1024)
+
+### DAY 16
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2098. 외판원순회](https://www.acmicpc.net/problem/2098) | ![GOLD%20I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 17
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [12100. 2048 (Easy)](https://www.acmicpc.net/problem/12100) | ![GOLD%20I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 18
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [19236. 청소년 상어](https://www.acmicpc.net/problem/19236) | ![GOLD%20I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 19
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [340213. PCCP 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | ![Level](https://img.shields.io/badge/Level-1-brightgreen) |
+
+### DAY 20
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [250136. 석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+
+
+
+<details>
+<summary>WEEK 4 (1013 ~ 1017)</summary>
+<div markdown="1">
 
 ### DAY 11
 
@@ -79,6 +116,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | 1 | [2110. 공유기설치](https://www.acmicpc.net/problem/2110) | ![GOLD%20IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
 
 
+</div>
+</details>
 
 
 <details>
