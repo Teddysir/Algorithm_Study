@@ -14,6 +14,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | 민웅기 | [@wcharibo](https://github.com/wcharibo)           |
 | 이가은 | [@go-ring](https://github.com/go-ring)           |
 | 유주경 | [@jukang3570](https://github.com/jukang3570)           |
+| 김예성 | [@Y-eseong](https://github.com/Y-eseong)           |
+
 
 ## 🌱 스터디 규칙
 
