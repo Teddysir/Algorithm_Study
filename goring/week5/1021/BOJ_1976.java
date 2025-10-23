@@ -36,7 +36,7 @@ public class BOJ_1976 {
 		for(int i=0; i<N; i++) parent[i] = i;
 			
 		for(int i=0; i<N; i++) {
-			// Union-find??
+			// Union-find
 			for(int j=i+1; j<N; j++) {
 				if(conn[i][j] == 1) union(i, j);
 			}
