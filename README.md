@@ -47,7 +47,45 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
-## WEEK 5 (1020 ~ 1024)
+## WEEK 6 (1027 ~ 1031)
+
+
+### DAY 21
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [1800. 인터넷 설치](https://www.acmicpc.net/problem/1800) | ![GOLD%20I](https://img.shields.io/badge/GOLD%20I-D5A11E?style=flat) |
+
+### DAY 22
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [2138. 전구와 스위치](https://www.acmicpc.net/problem/2138) | ![GOLD%20IV](https://img.shields.io/badge/GOLD%20IV-D5A11E?style=flat) |
+
+### DAY 23
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [118667. 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 24
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [68645. 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 25
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [388352. 비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+
+
+<details>
+<summary>WEEK 5 (1020 ~ 1024)</summary>
+<div markdown="1">
+
 
 ### DAY 16
 
@@ -79,6 +117,9 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | :---: | :---: | :---: |
 | 1 | [250136. 석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
 
+
+</div>
+</details>
 
 
 
