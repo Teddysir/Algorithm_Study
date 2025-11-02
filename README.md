@@ -47,8 +47,47 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
-## WEEK 6 (1027 ~ 1031)
 
+## WEEK 7 (1103 ~ 1107)
+
+
+### DAY 26
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [340211. 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 27
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [340212. 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 28
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [388353. 지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 29
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [150367. 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | ![Level](https://img.shields.io/badge/Level-3-green) |
+
+### DAY 30
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [150365. 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | ![Level](https://img.shields.io/badge/Level-3-green) |
+
+
+
+
+
+<details>
+<summary>WEEK 6 (1103 ~ 1107)</summary>
+<div markdown="1">
 
 ### DAY 21
 
@@ -80,6 +119,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | :---: | :---: | :---: |
 | 1 | [388352. 비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
 
+</div>
+</details>
 
 
 <details>
