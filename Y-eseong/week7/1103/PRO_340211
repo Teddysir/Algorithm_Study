@@ -1,0 +1,101 @@
+import java.util.*;
+
+class Solution {
+    static class Pair{
+        int x;
+        int y;
+        
+        public Pair(int x, int y){
+            this.x = x;
+            this.y = y;
+        }
+    }
+    // 상 하 좌 우
+    static int[][] dir = {{-1,0}, {1,0}, {0,-1}, {0,1}};
+    static int n, m, max;
+    static Queue<Pair>[] q;
+    static Set<Integer> set;
+    
+    public int solution(int[][] points, int[][] routes) {
+        int answer = 0;
+        n = 0;
+        m = 0;
+        max = 0;
+        int r_size = routes.length;
+        for(int[] p : points){
+            n = Integer.max(n, p[0]);
+            m = Integer.max(m, p[1]);
+        }
+        
+        q = new ArrayDeque[r_size];
+        int index = 0;
+        for(int[] r : routes){
+            q[index] = new ArrayDeque<>();
+            move(index, points, r);
+            max = Integer.max(max, q[index].size());
+            index++;
+        }
+        
+        // set은 같은 시간에 해당 칸에 로봇이 존재하는지 여부
+        set = new HashSet<>();
+        // crashed는 충돌을 이미 카운트 했는지 여부
+        List<Integer> crashed = new ArrayList<>();
+        
+        for(int i=0; i<max; i++){
+            for(int j=0; j<r_size; j++){
+                if(!q[j].isEmpty()){
+                    Pair cur = q[j].poll();
+                    int check = cur.x*1000 + cur.y;
+                    if(set.contains(check)){
+                        if(!crashed.contains(check)){
+                            crashed.add(check);
+                        }
+                    }
+                    set.add(check);
+                }
+            }
+            answer += crashed.size();
+            crashed.clear();
+            set.clear();
+        }
+        return answer;
+    }
+    
+    private static void move(int index, int[][] points, int[] r){
+        int x = -1;
+        int y = -1;
+        for(int next : r){
+            int c = next-1;
+            if(x == -1 && y == -1) {
+                x = points[c][0];
+                y = points[c][1];
+                q[index].offer(new Pair(x, y));
+                continue;
+            }
+            // 로봇은 위아래를 움직이고 좌우로 움직임을 이용
+            if(x < points[c][0]){
+                for(int i=x+1; i<=points[c][0]; i++){
+                    q[index].offer(new Pair(i, y));
+                }
+            }
+            else if(x > points[c][0]){
+                for(int i=x-1; i>=points[c][0]; i--){
+                    q[index].offer(new Pair(i, y));
+                }
+            }
+            
+            if(y < points[c][1]){
+                for(int j=y+1; j<=points[c][1]; j++){
+                    q[index].offer(new Pair(points[c][0], j));
+                }
+            }
+            else if(y > points[c][1]){
+               for(int j=y-1; j>=points[c][1]; j--){
+                    q[index].offer(new Pair(points[c][0], j));
+                } 
+            }
+            x = points[c][0];
+            y = points[c][1];
+        }  
+    }
+}
