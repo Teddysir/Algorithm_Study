@@ -21,7 +21,8 @@ class Solution {
         long total = 0L;
         for (int i = 0; i < diffs.length; i++) {
             total += diffs[i] <= level ? times[i] : (times[i] + times[i - 1]) * (diffs[i] - level) + times[i];
+            if (total > limit) { return false; }
         }
-        return total <= limit;
+        return true;
     }
 }
