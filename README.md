@@ -47,8 +47,45 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 6. 해당 `PR`에서 코드 리뷰를 진행한다🎉
 ```
 
+## WEEK 8 (1110 ~ 1114)
 
-## WEEK 7 (1103 ~ 1107)
+
+### DAY 31
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [150369. 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 32
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [150368. 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 33
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [92342. 양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | ![Level](https://img.shields.io/badge/Level-2-yellow) |
+
+### DAY 34
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [92343. 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | ![Level](https://img.shields.io/badge/Level-3-green) |
+
+### DAY 35
+
+| # | Title | Difficulty |
+| :---: | :---: | :---: |
+| 1 | [72414. 광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | ![Level](https://img.shields.io/badge/Level-3-green) |
+
+
+
+
+<details>
+<summary>WEEK 7 (1110 ~ 1114)</summary>
+<div markdown="1">
 
 
 ### DAY 26
@@ -81,6 +118,8 @@ SSAFY 대전_6반 / 기업 코딩테스트 대비 알고리즘 레포지토리
 | :---: | :---: | :---: |
 | 1 | [150365. 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | ![Level](https://img.shields.io/badge/Level-3-green) |
 
+</div>
+</details>
 
 
 
